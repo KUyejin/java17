@@ -1,0 +1,24 @@
+package sec1;
+
+// 변수 설명
+public class Example1 {
+    public static void main(String[] args) {
+        int a; //변수 선언
+        a = 0;  // 변수 초기화
+
+        int b = 0; // 변수 선언 + 변수 초기화
+
+        int i = 0, j = 0, k =0; //한 꺼번에 선언과 초기화
+
+        a = a + 5;
+        i = a + 20;
+        j = a - 10;
+
+        System.out.println("a=" + a);
+        System.out.print("i=" + i + "\n");
+        System.out.printf("j= %d" , j); //출력형식을 나타냄
+
+
+
+    }
+}
