@@ -22,5 +22,9 @@ public class Example7 {
 
         System.out.println("data5= " + data5); //2048
         System.out.println("data6= " + data6); // 0
+
+
+
+
     }
 }
