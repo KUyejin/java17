@@ -2,7 +2,7 @@ package sec1;
 
 import java.util.Scanner;
 
-public class Example1 {
+public class Example1_제어문 {
     public static void main(String[] args) {
 
         //제어문: 조건문, 반복문, 기타 제어문

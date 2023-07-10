@@ -1,6 +1,10 @@
-public class Example2 {
+package sec1;
+
+public class Example2_조건문 {
 
     public static void main(String[] args) {
+
+        //조건문
 
         int js1 = 85, js2 = 90, js3 = 95;
         float py = (js1 + js2 + js3) / 3.0f;
