@@ -82,14 +82,16 @@ public class Board {
     }
 
     public void method(){
+
         System.out.println("여기는 Board1 입니다");
     }
 
     public static void method2(){
         System.out.println("여기는 Boared2 입니다");
-    }
+    } //static 공유데이터다
 
     public final static void method3() {
+
         System.out.println("여기는 Board2입니다");
-    }
+    } //상속x, 오버라이딩x
 }
