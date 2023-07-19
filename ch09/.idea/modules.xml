@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/plactice.iml" filepath="$PROJECT_DIR$/plactice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09.iml" filepath="$PROJECT_DIR$/ch09.iml" />
     </modules>
   </component>
 </project>
